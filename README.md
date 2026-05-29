@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Mishen 👋
 
-<!--
-**Mishen-BMA/Mishen-BMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student at SLIIT
 
-Here are some ideas to get you started:
+I'm passionate about Cybersecurity, Information Security, Risk Management, Reverse Engineering, and Secure Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+* Cybersecurity Projects
+* Capture The Flag (CTF) Competitions
+* Security Research
+* Learning Industry Security Tools
+* Building Hands-On Technical Skills
+
+## 🏴 CTF Team
+
+Team: **Bug Bouncers**
+
+Members:
+
+* Mishen
+* Charuka
+* Buddhima
+* Speco
+
+Participated in:
+
+* SLIIT Capture The Flag (CTF)
+* Zero Day 2026
+* Hack.Kapwe
+
+## 📜 Certifications
+
+* Google Foundations of Cybersecurity
+* Cisco Introduction to Cybersecurity
+* Fortinet NSE 1 Information Security Awareness
+* IBM Fundamentals of Cybersecurity
+
+## 🛠️ Current Interests
+
+* Network Security
+* Risk Management
+* Reverse Engineering
+* Secure Software Systems
+* Threat Analysis
+* Digital Forensics
+
+## 📈 Current Goal
+
+Build practical cybersecurity projects, improve CTF performance, and develop skills required for SOC Analyst, Security Analyst, and Cybersecurity Engineering roles.
+
+---
+
+Always learning. Always improving.
