@@ -13,19 +13,17 @@ Interested in:
 
 🏴 Team: Bug Bouncers
 
-Status: Building. Breaking. Learning.
+Status: Learning one vulnerability at a time.
 
 ---
 
 ### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-brightgreen?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/kaveesha-mishen-39194628b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-brightgreen?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaveesha-mishen-39194628b)
 
 ---
 
 ### Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mishen-BMA&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mishen-BMA&theme=chartreuse-dark&hide_border=true)
 
@@ -43,4 +41,13 @@ Status: Building. Breaking. Learning.
 
 ---
 
-> Root access not yet obtained.
+### Certifications
+
+- IBM Fundamentals of Cybersecurity
+- Google Foundations of Cybersecurity
+- Cisco Introduction to Cybersecurity
+- Fortinet NSE 1 Information Security Awareness
+
+---
+
+> Build. Break. Learn. Repeat.
