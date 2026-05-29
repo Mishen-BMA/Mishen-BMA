@@ -13,11 +13,22 @@ Interested in:
 
 🏴 Team: Bug Bouncers
 
-Status: Learning...
+Status: Building. Breaking. Learning.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
-<img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](YOUR_LINKEDIN_URL)
+---
 
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mishen-BMA\&show_icons=true\&theme=chartreuse-dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mishen-BMA\&theme=chartreuse-dark)
+
+![](https://komarev.com/ghpvc/?username=Mishen-BMA\&color=brightgreen)
+
+---
+
+### Platforms
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/kaveeshamishen2002.png" alt="TryHackMe">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-green?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/kaveesha-mishen-39194628b)
