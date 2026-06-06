@@ -1,4 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:0D1117&height=180&section=header&text=Mishen&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=39FF14&width=700&lines=%24+whoami;Mishen;Cybersecurity+Student;CTF+Player;Security+Research+Enthusiast)](https://git.io/typing-svg)
 
 ```bash
