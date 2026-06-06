@@ -50,4 +50,4 @@ Status: Learning one vulnerability at a time.
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=39FF14&center=true&vCenter=true&width=350&lines=Build.;Break.Learn.Repeat.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1500&color=39FF14&center=true&vCenter=true&width=350&lines=Build.Break.Learn.Repeat.)](https://git.io/typing-svg)
