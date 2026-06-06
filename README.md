@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2000&color=39FF14&width=180&lines=whoami)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=2000&color=39FF14&width=220&lines=%24+whoami)](https://git.io/typing-svg)
 
 Mishen
 
